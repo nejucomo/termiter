@@ -1,6 +1,0 @@
-[package]
-name = "moveiter"
-version.workspace = true
-edition.workspace = true
-
-[dependencies]

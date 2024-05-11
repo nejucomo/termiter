@@ -1,9 +1,13 @@
 [workspace]
 resolver = "2"
 members = [
-	"moveiter",
+	"termiter",
 ]
 
 [workspace.package]
 version = "0.1.0"
 edition = "2021"
+
+[workspace.dependencies]
+either = "1.11.0"
+test-case = "3.3.1"
